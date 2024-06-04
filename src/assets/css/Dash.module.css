@@ -1,0 +1,38 @@
+.paddingall {
+    padding: 10px 10px 10px 10px;
+}
+
+.univercitytitle {
+    font-weight: 600;
+}
+
+.univercitysubtitle {
+    font-size: 14px;
+}
+
+.iconstyle {
+    margin-top: 20px;
+    margin-left: 20px;
+}
+
+.iconstylewhite {
+    margin-top: 20px;
+    margin-left: 20px;
+    color: aliceblue;
+}
+
+.gradient {
+    background: rgb(120, 113, 167);
+    background: linear-gradient(158deg, rgb(78, 194, 220) 0%, rgb(235, 180, 236) 100%);
+}
+
+.gradientlight {
+    background: rgb(120, 113, 167);
+    background: linear-gradient(158deg, rgb(235, 180, 236) 0%, rgb(78, 194, 220) 100%);
+}
+
+.bgcolor {
+    min-height: 100vh;
+    background: #ECEFF1;
+    background: linear-gradient(158deg, rgb(224, 224, 224) 0%, rrgb(233, 237, 254)100%);
+}

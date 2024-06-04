@@ -1,0 +1,32 @@
+.Home {
+    display: flex;
+    align-items: center;
+    justify-items: center;
+  }
+  
+  .welcomeHeader {
+    display: flex;
+    position: relative;
+    top: 20%;
+  
+    width: 380.31px;
+    height: 581.14px;
+  }
+  
+  .welcomeHeaderImage {
+    display: flex;
+    position: relative;
+  
+    width: 380.31px;
+    height: 581.14px;
+  }
+  
+  .initial-setup-login {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .loginForm {
+    display: flex;
+    flex-direction: column;
+  }
